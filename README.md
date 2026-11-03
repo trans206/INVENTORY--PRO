@@ -1,2 +1,8 @@
 # INVENTORY--PRO
-Simple inventory management system for small shops - built with Python and Tkinter. Manage products, sales, and stock easily.
+
+Simple offline inventory app for small shops.
+
+### How to use:
+1. Download the exe file from Releases
+2. Double-click to run
+3. Login with admin / admin123
